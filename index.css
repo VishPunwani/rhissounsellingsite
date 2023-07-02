@@ -37,7 +37,7 @@ header .wrapper {
     justify-content: space-between;
 }
 header .logo img {
-    height: 50px;
+    height: 100px;
     display: block;
 }
 
@@ -82,7 +82,7 @@ white;
 .navbar ul a:hover {
     color: 
 #111111;
-    text-decoration: underline overline;
+    text-decoration: underline overline #dec2ba;
     text-decoration-thickness: 3px;
 }
 
@@ -124,9 +124,9 @@ rgba(0, 0, 0, 0.1);
 .menu-bar i {
     display: block;
     border-top: 3px solid 
-#444444;
+#dec2ba;
     border-bottom: 3px solid 
-#444444;
+#dec2ba;
 }
 .menu-bar i::after {
     display: block;
@@ -141,7 +141,7 @@ white;
 }
 .menu-bar button:hover i {
     border-color: 
-#222222;
+#dec2ba;
 }
 
 .container {
@@ -150,7 +150,7 @@ white;
     padding: 30px;
 }
 
-@media (min-width: 550px) {
+@media (min-width: 850px) {
     .navbar {
         all: unset;
         display: block;
