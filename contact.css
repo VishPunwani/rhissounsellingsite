@@ -90,19 +90,16 @@ main {
     display: block;
     padding: 10px 0;
     color: var(--light-font-color);
-    z-index: -1;
 }
 
 .sidebar .item {
     position: relative;
     padding-left: 2.3rem;
-    z-index: -1;
 }
 
 .sidebar .icon {
     position: absolute;
     left: 0;
-    z-index: -1;
 }
 
 ul.social {

@@ -150,6 +150,10 @@ white;
     padding: 30px;
 }
 
+
+
+
+
 @media (min-width: 850px) {
     .navbar {
         all: unset;
