@@ -10,6 +10,13 @@ html {
     font-size: 16px;
     scroll-behavior: smooth;
     -webkit-text-size-adjust: 100%;
+   
+        background: url(images/SL-081322-52440-35.jpg) no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+      
 }
 
 body {
@@ -149,7 +156,6 @@ white;
     margin: 0 auto;
     padding: 30px;
 }
-
 
 
 
